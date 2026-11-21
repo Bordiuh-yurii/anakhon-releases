@@ -1,10 +1,10 @@
 {
     "Package":  "Kostika",
-    "Version":  "1.0.7",
-    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.7/AnakhOn-Kostika-1.0.7-setup.exe",
-    "Sha256":  "e9a3fa8b1c2caa5a2ec9db2fc27d9250985764e89d3299d76ec40cae5721ec43",
-    "Size":  8132608,
+    "Version":  "1.0.8",
+    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.8/AnakhOn-Kostika-1.0.8-setup.exe",
+    "Sha256":  "6d2610336f06f81f7d83d33fea7434ca50a4b8973a0ae479dec25fb403a736ca",
+    "Size":  8134620,
     "Date":  "2026-11-21",
-    "Notes":  "• Report a problem: describe the problem, add screenshots, files and the current drawing — sent securely to the AnakhOn administrator\n• My reports: status of your reports and the answer of the administrator\n• Ribbon: thinner, crisper icons for Axes and Elevation Mark",
-    "Sig":  "euC2onbzlbJ4TtIQAj+MJrK2VjT7+3rzQWZ5VWJwvHqALOOViyEoOBYkurJqDr6x7fEWbTBLD8aGUJybVpsu8xKHhLDvryAylFmnPLTZoAC23ARC5gd4SWE2bvHulg+j5u/GHhAkssfWTdEFHL1pWH84uusxrToE5pLjUpRYFfE+CqO90GTwRMtXg5ePZuqjnoJOWnC1NEbFt3HhBDnO+RTBhoiWSXYVFgzcaU+5Mrj08gEte8bjcFUVdfHj3zkVba8Dvjj+bMaa9NzQxSAW1uibZc9Ut0HcaQO79dTPaQSQJhAEAXQvpaKyI1nJwLXVoToZIujcFyH2+PAymHFUbQ=="
+    "Notes":  "• Catalog: fixed «An error occurred during save» and the broken display when opening the drawings of a new element\n• Catalog: Gaskets show their article (Art)\n• Dialog texts and buttons fit on screens with 125–150 % scale",
+    "Sig":  "G3NvqhzzEhfaBpPjt+PKhKh5Az5KDcW38SbInbJ/UcNzZbCH1/WWhcKUid7gesP6+T4N3p5uiID8exeMl0bXHU2y2dI1ObZqhCTPx/hVkiVM3O39JWIlYJxBQQz4qyfm/uRtU8i9iaTqhv21cHmgVZSfvqI9E4NfWyIOlh8V979H3/yr/aYr8o0dDx6Uvb2ZZQXdaEb6NzpYCbfaFHtCB2N01Oa60diaaRERrL/s2mT/6dBaVLSfJoH7mvIfDtVZzizWE164US56OVdtw5uSySsigvPWeHn1X72r5QZo2M0bkYaNsDJliGAbcmpeMyXW/ftjZ4FeplIp9ZaVXFvCSg=="
 }
