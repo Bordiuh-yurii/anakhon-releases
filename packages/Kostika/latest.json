@@ -1,10 +1,10 @@
 {
     "Package":  "Kostika",
-    "Version":  "1.0.4",
-    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.4/AnakhOn-Kostika-1.0.4-setup.exe",
-    "Sha256":  "aeb666e6fd0e4f0d831e521139e2e44dfde387ed0e64790b5982f01282624fb1",
-    "Size":  8117330,
+    "Version":  "1.0.5",
+    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.5/AnakhOn-Kostika-1.0.5-setup.exe",
+    "Sha256":  "e1cfeb04814349fcdf4da649db6346cb512efd56dce1212911d835c7330d9236",
+    "Size":  8118154,
     "Date":  "2026-11-21",
-    "Notes":  "• Updates from inside AutoCAD: AnakhOn checks once a day; also Settings → Check for updates\n• Windows and palettes grow with the Windows screen scale (125–150 %)\n• Catalog: dimensions in the picture fit, green check on the selected row, status from the right-click menu\n• New AnakhOn logo and start screen",
-    "Sig":  "DRuIBHpbOoC6nOf6Wv3g8j87xNTu04MqOwA5r1pa8hKBlOSi25417KVN7zWJp+zfV1TWalycrksILjQYo/3iTWP/K/h29sAZZY4x8+tJdBWaxsOOwYvcM3fBOla2cpPqbzCM/MGAK5/VdtlObw5lwOA31iXfTm/lKiCm3tR6NIs5Ax3yjveua+sXDDfaVS19f1VaDT6wkhDSyuDicpzO2a5iGedobnNH1QTiuMcoWldy+2I8BmmCKfdVKR7hj0nerY6nJjHFVE/1CtM/bI6yOw9UXjZIH2pLHU9oytZ+1RcqN6y1SmGmsrGmwo6hkHyCHBT4LwCCKoswOLFF3MKleA=="
+    "Notes":  "• New slogan: AnakhOn — Precision On (start screen and installer)\n• The installer window opens in front of other windows",
+    "Sig":  "JFBu8PHaVCjXTO78MEhQoLI67z0Oo7PzV3OJKpzAoYdYxPIrKCdKwV0iWNUHwK0eD3djMwY/X+ksdxi3uIoNDERXmDuJNN0oOf76BgneUa+5EGMMrXt9ptCEv760e9g5/WohjQVlhXlziEaDUWWD6T/KDbJJ9bPk9avR2TxveTvJ/fYpzXbj7eo0g85aBaKcCF1p+auuOKn92I+kpGh/f97XUarU9/5zeCSojr+7KWEPXAz0N869LybO2la9dMARocxETfkH33eosAx5FcDIejBThGvIzQAHpjkRWyy2nyonor5NJcYHy1o+bF8Pue00zCoq19hVRa9VFm6++12/5Q=="
 }
