@@ -1,10 +1,10 @@
 {
     "Package":  "Kostika",
-    "Version":  "1.0.5",
-    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.5/AnakhOn-Kostika-1.0.5-setup.exe",
-    "Sha256":  "e1cfeb04814349fcdf4da649db6346cb512efd56dce1212911d835c7330d9236",
-    "Size":  8118154,
+    "Version":  "1.0.6",
+    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.6/AnakhOn-Kostika-1.0.6-setup.exe",
+    "Sha256":  "fbd60b2c8838b73454cddf9fe0cfa2aa83f6e889861be88aadb5d24bc862cc60",
+    "Size":  8121109,
     "Date":  "2026-11-21",
-    "Notes":  "• New slogan: AnakhOn — Precision On (start screen and installer)\n• The installer window opens in front of other windows",
-    "Sig":  "JFBu8PHaVCjXTO78MEhQoLI67z0Oo7PzV3OJKpzAoYdYxPIrKCdKwV0iWNUHwK0eD3djMwY/X+ksdxi3uIoNDERXmDuJNN0oOf76BgneUa+5EGMMrXt9ptCEv760e9g5/WohjQVlhXlziEaDUWWD6T/KDbJJ9bPk9avR2TxveTvJ/fYpzXbj7eo0g85aBaKcCF1p+auuOKn92I+kpGh/f97XUarU9/5zeCSojr+7KWEPXAz0N869LybO2la9dMARocxETfkH33eosAx5FcDIejBThGvIzQAHpjkRWyy2nyonor5NJcYHy1o+bF8Pue00zCoq19hVRa9VFm6++12/5Q=="
+    "Notes":  "• Check for updates in Settings: Settings closes and the update window opens right away\n• The AnakhOn ribbon tab is restored automatically if it is missing after an update",
+    "Sig":  "yMAFqcbpPP55OQFMiPBUsi/3mCSyAKHYWXs/1GX8jYPJ+dWVO8KwC3Sl1lfDb3gYdQ1nV0L1+o44GJf7VvRMDqsPMx8LaXH/j0CObG9JC7GIOp3v4R2MiU0dHAP92faeZhsIM/inzFH4DtE1uHr1NikY2Jti3wrQeovbttVZH1VLkEaTK0KUes4LmSoqG72avy0EKdxYoEaMGWemtsPH/CAUP+2t3vEmPdY71q7YXeZA6nrEwB4OpeA+qWBXEV6FhIXw+nCMSxQw5CCKGULqtMAz2ycLes9coXDNDbVm2inNVAQ5U3wnETKonHEalvoJ/KbGCnRj1Ns7537oAZIiPw=="
 }
