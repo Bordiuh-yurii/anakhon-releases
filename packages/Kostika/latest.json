@@ -1,10 +1,10 @@
 {
     "Package":  "Kostika",
-    "Version":  "1.0.10",
-    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.10/AnakhOn-Kostika-1.0.10-setup.exe",
-    "Sha256":  "5756a068daed831e78bf1356d45773f62013a37ad89a71dd072e5c09a15f3de0",
-    "Size":  8364674,
+    "Version":  "1.0.11",
+    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.11/AnakhOn-Kostika-1.0.11-setup.exe",
+    "Sha256":  "d89d3b19149fb7a19319e9a06f5b4b460366d881732554d2e433d56c55aa40ad",
+    "Size":  8361223,
     "Date":  "2026-11-27",
-    "Notes":  "• Spliced mullions: pick the part to edit, length = sum of parts, merged cells in tables\n• Brackets: new type Connector (no structure check), Fixing/Support taken from the catalog, checks see processed mullion walls\n• Processing node: dimension to the nearest mullion end, break line when it is far\n• Catalog: new Art renames drawings, Copy as new keeps the Art, BOLT/ANKER layers optional, no more \u0027error during save\u0027 from Catalog\n• Facade hatches of fillings in Settings; Structures: facade method first",
-    "Sig":  "CAhOHBA5737YeO7xHFYo02TBkbPDD2Ib5HgnakxjN8oXPa9RtEAY+0KY19EWzBhQj440WpG9EsJ++bvbHhvPots4XnmvCsKVOEEWFj+dH1aO8Wg+XOiJLEaj3kuJRKs4gWRN3wNJw8wE6fbplJZI0dBZe08J1gKXgv2m/+5uUKO4O96DM86mCv9mYO6Rwy1UueUqEzyZ8bUlA/PuvJ3VrgzgNcqJHoQvoTYb9i/PYjV+RHGXp8/IfjmRS+Ua7XoASO7VVNdJ7844yPfDJBSfULToFgim1MBR6PQC896Xw1tYsj3DwS84AVrlT6KmxJiiz5LUm0qIvb8CRdz5/GoVfg=="
+    "Notes":  "• Mullion sheets: processing nodes, knife nodes and pictures in a dashed frame like shop sections\n• Corner assemblies on Mullions and Transoms sheets are larger\n• Brackets sheet: drawings fill the free space beside the legend and are larger\n• Processing node: dimension to the nearest mullion end (none when the cut reaches the end)",
+    "Sig":  "wY9ApdHiudPQPfxmtdxQb6na8YeoPx/PFDxmaHrSW4MpVhTQKfUrZPst87zcR4gI4ZFgdjln3Y9eErbRnYg0G46Bv2li23pTzaVHTuEdl2xpWqNfOXl9zFBYSV2Ga8WEWWMTagM4kaTpev2t1rOfe13c8BYE+fjO08WSdrXnS5tDUWu2cBuPZVtSQsNo2ccNZr02CYAYvMCBS1hEXZ+2PHlJBuGu7KTkNhmyYZRBIdkF3IdyKKF9W98xlq2JCdy7CVbL3rZuM8sejIcp9dp8UaFvXoJdNiMn0Q7HwmWkgc6+MmuN+stYphprohe5aaB5+nnMqgW1qEL0fLTBX5RXxQ=="
 }
