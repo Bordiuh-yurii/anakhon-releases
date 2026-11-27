@@ -1,10 +1,10 @@
 {
     "Package":  "Kostika",
-    "Version":  "1.0.9",
-    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.9/AnakhOn-Kostika-1.0.9-setup.exe",
-    "Sha256":  "6983eb0ac7a1cb2941fa43c57eb0da8d0b6fdb1c05eb7b4a8dfe232f5a8a097c",
-    "Size":  8223475,
-    "Date":  "2026-11-25",
-    "Notes":  "• Corner sandwich panel: section B-B bent by the corner angle, plan cuts drawn to the corner on both planes\n• Mullion processing: shop section and node CO-1 with the cut-off part\n• Vertical cuts: no stray level/12 mm at the glass corner line\n• \u0027Corner N\u0027 label finds free space; hidden with cut lines in Edit Skeleton",
-    "Sig":  "bpRTCB/PmxQv59NLnBsVmI8nef5pm+uENv+NIlmeb2zxkKsqRBskYUWnkvBbwggrKo0jiU5gE+Ikj2NqKP8yWdVlVV6SiHPdS/a7ZfO9gPkqqPGk7xGdczuaN1la2HbIrpq/J6lWvhwx2xXgmslT0sItyOs5PDxtB0Vt7GnXylytFRfm4BmJSYmtRjvAsCIiB8px2ORsY8WkLe9UF7c1zQVRqqk/ZTh/0DiYUEuge6pGys7yfDpnMqgCqIOKggOkDPDQATt54385O7v45/4sRHN5uY+kne+n6GqqF9EdIF6SixJr3d1cIquQplNcHYoit5jIX2YIKWy2UJaqflJ2XA=="
+    "Version":  "1.0.10",
+    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.10/AnakhOn-Kostika-1.0.10-setup.exe",
+    "Sha256":  "5756a068daed831e78bf1356d45773f62013a37ad89a71dd072e5c09a15f3de0",
+    "Size":  8364674,
+    "Date":  "2026-11-27",
+    "Notes":  "• Spliced mullions: pick the part to edit, length = sum of parts, merged cells in tables\n• Brackets: new type Connector (no structure check), Fixing/Support taken from the catalog, checks see processed mullion walls\n• Processing node: dimension to the nearest mullion end, break line when it is far\n• Catalog: new Art renames drawings, Copy as new keeps the Art, BOLT/ANKER layers optional, no more \u0027error during save\u0027 from Catalog\n• Facade hatches of fillings in Settings; Structures: facade method first",
+    "Sig":  "CAhOHBA5737YeO7xHFYo02TBkbPDD2Ib5HgnakxjN8oXPa9RtEAY+0KY19EWzBhQj440WpG9EsJ++bvbHhvPots4XnmvCsKVOEEWFj+dH1aO8Wg+XOiJLEaj3kuJRKs4gWRN3wNJw8wE6fbplJZI0dBZe08J1gKXgv2m/+5uUKO4O96DM86mCv9mYO6Rwy1UueUqEzyZ8bUlA/PuvJ3VrgzgNcqJHoQvoTYb9i/PYjV+RHGXp8/IfjmRS+Ua7XoASO7VVNdJ7844yPfDJBSfULToFgim1MBR6PQC896Xw1tYsj3DwS84AVrlT6KmxJiiz5LUm0qIvb8CRdz5/GoVfg=="
 }
