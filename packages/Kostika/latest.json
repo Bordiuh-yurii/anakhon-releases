@@ -1,10 +1,10 @@
 {
     "Package":  "Kostika",
-    "Version":  "1.0.11",
-    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.11/AnakhOn-Kostika-1.0.11-setup.exe",
-    "Sha256":  "d89d3b19149fb7a19319e9a06f5b4b460366d881732554d2e433d56c55aa40ad",
-    "Size":  8361223,
-    "Date":  "2026-11-27",
-    "Notes":  "• Mullion sheets: processing nodes, knife nodes and pictures in a dashed frame like shop sections\n• Corner assemblies on Mullions and Transoms sheets are larger\n• Brackets sheet: drawings fill the free space beside the legend and are larger\n• Processing node: dimension to the nearest mullion end (none when the cut reaches the end)",
-    "Sig":  "wY9ApdHiudPQPfxmtdxQb6na8YeoPx/PFDxmaHrSW4MpVhTQKfUrZPst87zcR4gI4ZFgdjln3Y9eErbRnYg0G46Bv2li23pTzaVHTuEdl2xpWqNfOXl9zFBYSV2Ga8WEWWMTagM4kaTpev2t1rOfe13c8BYE+fjO08WSdrXnS5tDUWu2cBuPZVtSQsNo2ccNZr02CYAYvMCBS1hEXZ+2PHlJBuGu7KTkNhmyYZRBIdkF3IdyKKF9W98xlq2JCdy7CVbL3rZuM8sejIcp9dp8UaFvXoJdNiMn0Q7HwmWkgc6+MmuN+stYphprohe5aaB5+nnMqgW1qEL0fLTBX5RXxQ=="
+    "Version":  "1.0.12",
+    "Url":  "https://github.com/Bordiuh-yurii/anakhon-releases/releases/download/kostika-1.0.12/AnakhOn-Kostika-1.0.12-setup.exe",
+    "Sha256":  "96f269d3d4bd67809b291bf8fad3f8cbc0d82c29c60857264d7424fc039e2499",
+    "Size":  8363370,
+    "Date":  "2026-11-28",
+    "Notes":  "Facade check: a red mark when a glass unit refers to a glass or spacer missing from the catalog (its edge sections would be drawn without glass steps). Catalog: glass units IGU-47, IGU-47b, IGU-51b, IGU-47-1, IGUO-47b now use glass 6.6.4 - glass steps are back on the transom sections.",
+    "Sig":  "fZoj0L7DRBuRcsBYjNC7Aklj/9lpraVuzbRKl/ZPEQTU7/8AkQv91flDHa2TZxm4PHMZboDp98kbnERixITC1aKDfLbMpkXogJ+mw4of77GtJg4LWjjXVL7cmAOFUjiqzuq0lLkUeP5J1g/QiBfDPUvGTNKkozPdXg9iculX5aPPvss5moAG3BChQ3VyM49fKPd+XcEminJJ5plqh77svdIzFWktbZKCJBtPqg8dvfngcRq+Czm+uD8FRRxxprWgm5PatWP+AnGUKBenFdgpKq8dblPg/XCtXNVA6bI5a566G/wRMRJnB7h+TNnONwjTP9VyBD+1nVkyU/c1DaoW+A=="
 }
